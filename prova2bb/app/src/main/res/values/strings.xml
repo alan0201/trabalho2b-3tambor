@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">prova2bb</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_competidor">Adicionar Competidor</string>
+    <string name="name_passada">Adicionar Passada</string>
+</resources>
